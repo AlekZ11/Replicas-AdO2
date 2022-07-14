@@ -33,7 +33,7 @@ entity Ejercicio05 is
 Port ( clk : in  STD_LOGIC;
            Q : out  STD_LOGIC_VECTOR (3 downto 0);
            SN, EO : inout  STD_LOGIC_VECTOR (0 to 2));
-end Ejerc3_5;
+end Ejercicio05;
 
 architecture Behavioral of Ejercicio05 is
 signal Qn : STD_LOGIC_VECTOR (3 downto 0) := "0000";

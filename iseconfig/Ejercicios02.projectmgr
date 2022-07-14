@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!--This is an ISE project configuration file.-->
 <!--It holds project specific layout data for the projectmgr plugin.-->
 <!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
@@ -13,13 +13,13 @@
          <ClosedNode>/FFJK01 - Behavioral |home|alekz|Descargas|Ejercicios02|FFJK01.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>Ejercicio20 - Behavioral (/home/alekz/Descargas/Ejercicios02/Ejercicio20.vhd)</SelectedItem>
+         <SelectedItem>Ejercicio05 - Behavioral (/home/alekz/Descargas/Ejercicios02/Ejercicio05.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >9</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000015f000000020000000000000000000000000200000064ffffffff0000008100000003000000020000015f0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>Ejercicio20 - Behavioral (/home/alekz/Descargas/Ejercicios02/Ejercicio20.vhd)</CurrentItem>
+      <CurrentItem>Ejercicio05 - Behavioral (/home/alekz/Descargas/Ejercicios02/Ejercicio05.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -47,7 +47,7 @@
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000038c000000040101000100000000000000000000000064ffffffff0000008100000000000000040000007b00000001000000000000005d0000000100000000000000840000000100000000000002300000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem>Ejercicio03.vhd</CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
@@ -67,6 +67,46 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001510000012001000000060100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/TB_Ejercicio11 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio11.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio12 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio12.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio13 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio13.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio16 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio16.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio17 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio17.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio18 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio18.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio19 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio19.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejercicio20 - behavior |home|alekz|Descargas|Ejercicios02|TB_Ejercicio20.vhd</ClosedNode>
+         <ClosedNode>/TB_FFJK01 - behavior |home|alekz|Descargas|Ejercicios02|TB_FFJK01.vhd</ClosedNode>
+         <ClosedNode>/TB_FFT02 - behavior |home|alekz|Descargas|Ejercicios02|TB_FFT02.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>TB_Ejercicio10 - behavior (/home/alekz/Descargas/Ejercicios02/TB_Ejercicio10.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >11</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000185000000020000000000000000000000000200000064ffffffff000000810000000300000002000001850000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>TB_Ejercicio10 - behavior (/home/alekz/Descargas/Ejercicios02/TB_Ejercicio10.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
          <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
@@ -75,6 +115,18 @@
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
-   <SourceProcessView>000000ff0000000000000002000001510000012001000000060100000002</SourceProcessView>
-   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f1000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
 </Project>
