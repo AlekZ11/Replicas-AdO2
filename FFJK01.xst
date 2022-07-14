@@ -1,0 +1,5 @@
+set -tmpdir "/home/alekz/Descargas/Ejercicios02/xst/projnav.tmp"
+set -xsthdpdir "/home/alekz/Descargas/Ejercicios02/xst"
+elaborate
+-ifn FFJK01.prj
+-ifmt mixed
